@@ -1,0 +1,91 @@
+
+##############################################
+# Visual Studio / .NET Ignore File
+# Projeto: ThaissaLeslye.PlataformaQA
+##############################################
+
+# Arquivos de usuário e configurações locais
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Diretórios de build e binários
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+artifacts/
+
+# Cache do Visual Studio
+.vs/
+.vscode/
+
+# Pacotes NuGet
+*.nupkg
+**/packages/*
+!**/packages/build/
+# Caso use repositórios NuGet locais, descomente:
+#!**/packages/repositories.config
+
+# Arquivos de lock do .NET Core
+project.lock.json
+project.fragment.lock.json
+
+# Ferramentas Tye
+.tye/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Histórico e Workspaces do VS Code
+.history/
+*.code-workspace
+
+# Arquivos de banco de dados e backups
+*.dbmdl
+*.bak
+*.ldf
+*.mdf
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+
+# Resultados de testes
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+coverage/
+*.coverage
+*.coveragexml
+
+# Diretórios de publicação
+publish/
+wwwroot/dist/
+wwwroot/node_modules/
+
+# Ferramentas de análise e extensões
+_ReSharper*/
+*.[Rr]e[Ss]harper
+.idea/
+*.dotCover
+_NCrunch_*
+.*crunch*.local.xml
+
+# Código gerado automaticamente
+Generated_Code/
+
+# Arquivos de configuração sensíveis
+appsettings.*.json
+secrets.json
+
+# Outros arquivos desnecessários
+*.orig
+*.cache

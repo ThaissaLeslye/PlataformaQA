@@ -1,0 +1,6 @@
+@ThaissaLeslye.PlataformaQA.API_HostAddress = http://localhost:5069
+
+GET {{ThaissaLeslye.PlataformaQA.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
