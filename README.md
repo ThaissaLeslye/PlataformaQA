@@ -7,6 +7,7 @@ Certifique-se de ter as seguintes ferramentas instaladas nas versões compatíve
 * **.NET SDK:** [9.0.306]
 * **Node.js:** [22.19.0]
 * **Angular CLI:** [21.0.5]
+* **Node:** [22.19.0]
 
 ## ⚙️ Configuração do Ambiente
 
