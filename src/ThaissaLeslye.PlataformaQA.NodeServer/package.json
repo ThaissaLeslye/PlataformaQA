@@ -1,8 +1,5 @@
 {
   "name": "thaissaleslye.plataformaqa.nodeserver",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
   "scripts": {
     "dev": "npx tsx src/infra/server.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
